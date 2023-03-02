@@ -1,0 +1,32 @@
+.bg {
+    background: url("./assets/pic.jpg");
+    object-fit: cover;
+   height: 50vh;
+   background-repeat: no-repeat;
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .result{
+    margin: 40px;
+    margin: auto;
+    height: 400px;
+    width: 500px;
+    background: #d8d6d6;
+    display: block;
+    justify-content: center;
+    align-items: center;
+
+  }
+  img{
+    /* margin-left: 120px; */
+    height: 100px;
+    width: 100px;
+  }
+  .imgg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
